@@ -1,0 +1,13 @@
+Label;Part Type;mn;mpn;part number;
+DISPLAY MODULE;TFT 2.2 inch 320x240 w microSD;;;1480;
+RESISTOR;220Ω Resistor;;;;
+ROTARY ENCODER;KY-040 Rotary encoder;;;;
+STATUS LED;LEDs;;;;
+XIAO ESP32S3;XIAO ESP32S3;;;;
+
+Amount;Part Type;mn;mpn;part number;
+1;220Ω Resistor;;;;
+1;KY-040 Rotary encoder;;;;
+1;LEDs;;;;
+1;TFT 2.2 inch 320x240 w microSD;;;1480;
+1;XIAO ESP32S3;;;;
